@@ -1,0 +1,12 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\rnn-besichtigung]
+@="URL:RNN Besichtigungstermine Protocol"
+"URL Protocol"=""
+
+[HKEY_CURRENT_USER\Software\Classes\rnn-besichtigung\shell]
+
+[HKEY_CURRENT_USER\Software\Classes\rnn-besichtigung\shell\open]
+
+[HKEY_CURRENT_USER\Software\Classes\rnn-besichtigung\shell\open\command]
+@="cmd.exe /c \"C:\\Arbeit\\web\\rnnutils\\besichtigungstermine\\run_renapp.bat\""

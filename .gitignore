@@ -1,0 +1,30 @@
+﻿# Geheimnisse, Tokens und Zugangsdaten ignorieren
+credentials.json
+token.json
+**/credentials.json
+**/token.json
+.env
+.env.local
+.env.*.local
+config/secrets/
+
+# Temporaere Office-Dateien und Sicherungen
+~$*
+*.tmp
+*.bak
+
+# Abhaengigkeiten (Composer)
+/vendor/
+
+# IDEs und Editoren
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Logs und temporaere PHP-Dateien
+*.log
+.phpunit.result.cache

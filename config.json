@@ -1,0 +1,11 @@
+{
+    "sofortSenden":  false,
+    "ordnerPfad":  "Häuser\\Kohlhöfen\\Besichtigungen\\4.OG\\Besichtigungskandidaten",
+    "intervallMinuten":  5,
+    "besichtigungstag":  "",
+    "startWorkflow":  false,
+    "startUhrzeit":  "11:00",
+    "selbstauskunftPfad":  "C:\\ShareDrive\\Verwaltung\\Vorlagen\\Neuvermietung\\Mieterselbstauskunft_Sonne.pdf",
+    "datumIso":  "2026-09-12",
+    "exposeePfad":  "C:\\ShareDrive\\Verwaltung\\Häuser\\Kohlhöfen\\Photos\\1OGlinks\\Exposee\\expose.pdf"
+}
